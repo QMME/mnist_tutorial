@@ -22,3 +22,17 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+I choose pytorch to implement. 
+
+# Results
+Results for train and test accuracies.
+
+Q|train acc|test acc
+-|-|-
+Q1|95.40|87.60
+Q2|81.68|81.30
+Q3|98.08|84.90
+Q4|96.42|86.20
+Q5|99.57|98.69
+
